@@ -1,12 +1,6 @@
 # Snake-Game
 Snake Game by mrtheweeknd
-
-## Configurando o ambiente: 
-1. Baixe o diretório. 
-2. Extraia o arquivo. 
-3. Abra o index.html no VS Code.
-4. Faça a transmissão da página em "Go Live" e entre no navegador. Caso não tenha essa opção no seu VS Code, baixe a extensão "Live Server".
-
+ 
 ## Como jogar?
 1. Pressione a tecla "s" ou "S" para inicializar o jogo. Não é possível reiniciar o jogo se ele estiver ocorrendo. 
 2. Pressione a tecla "p" ou "P" para pausar o jogo. O primeiro toque pausa o jogo, o segundo toque continua o jogo.
@@ -21,12 +15,8 @@ Snake Game by mrtheweeknd
 ## Observações
 1. Para uma melhor experiência, diminua o zoom da tela para 80%.
 
-
-## Setting up the environment:
-1. Download the directory.
-2. Extract the file.
-3. Open the index.html in VS Code.
-4. Start the page by clicking "Go Live" and open it in the browser. If this option is not available in your VS Code, download the "Live Server" extension.
+## Link para acessar o jogo
+1. https://mrtheweeknd.github.io/Snake-Game/
 
 ## How to play?
 1. Press the "s" or "S" key to start the game. It is not possible to restart the game while it is ongoing.
@@ -41,3 +31,6 @@ Snake Game by mrtheweeknd
 
 ## Notes
 1. For a better experience, reduce the screen zoom to 80%.
+
+## Link to access the game
+1. [https://mrtheweeknd.github.io/Snake-Game/](https://mrtheweeknd.github.io/Snake-Game/)
